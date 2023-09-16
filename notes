@@ -1,0 +1,15 @@
+upload to github
+
+put steps list in a seperate file
+
+need to seperate the titles list from the steps list, because sub steps should not show up in title.
+could do it by filtering unique ids with string length cutting off the sub numbers
+
+add support to skip to new step using side menu
+
+textInput is pushing more chat bot messages for no reason.
+
+how can I detect which text box is clicked if they are all in the same array?
+start with numbers?
+
+should the bot have a custom name option?
